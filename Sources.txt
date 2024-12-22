@@ -1,0 +1,14 @@
+### Documentations
+- [EpicResearch](<https://github.com/mixv2/epicresearch>) - Documentation of Account, Auth and MCP services
+- [FortniteEndpointsDocumentation](<https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation>) - Documentation of Account, Auth, MCP, Friends, and many more services
+- [Epic Games Client Documentation](<https://egs.jaren.wtf/>) - List of Auth clients
+### Fortnite Clients
+- [fnbr.js](<https://github.com/fnbrjs/fnbr.js>) - Fortnite BR and STW library ( <:JS:1021008914696917104> / <:ts:892483436755976293> )
+- [fortnitepy](<https://github.com/Terbau/fortnitepy>) - Fortnite library ( <:python:1020764715380646091> )
+### Fortnite APIs
+- [Fortnite-API](<https://fortnite-api.com>) - API including Shop, Stats and Cosmetics Endpoints
+- [fortniteapi.io](<https://fortniteapi.io>) - API including Shop, Stats, Cosmetics, Quests, Vehicles and many more Endpoints
+### Unreal Engine Parsers
+- [FortniteReplayDecompressor](<https://github.com/Shiqan/FortniteReplayDecompressor>) - Fortnite replay parser library ( <:Csharp:1021008913841270814> )
+- [replay-reader](<https://github.com/xNocken/replay-reader>) - Fortnite replay parser library ( <:JS:1021008914696917104> / <:ts:892483436755976293> )
+- [CUE4Parse](<https://github.com/FabianFG/CUE4Parse>) - Unreal Engine packet parser library ( <:Csharp:1021008913841270814> )
